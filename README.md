@@ -1,5 +1,7 @@
 Olá, sou <b>Diogo Rosanelli</b> engenheiro de software desde o bug do milênio.
 
+Perfil em processo de criação, em breve atualizado e publicando conteúdo....
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diogorosanelli&hide=contribs,prs&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_color=000000"/>
 </p>
