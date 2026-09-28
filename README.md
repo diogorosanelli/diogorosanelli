@@ -22,6 +22,8 @@
 
 ## 🌎 Sobre mim
 
+<a href="https://github.com/diogorosanelli"><img align="right" width="170" src="https://avatars.githubusercontent.com/u/115076?v=4&s=360" alt="Diogo Rosanelli" /></a>
+
 Trabalho com **inteligência geográfica desde 2000** — comecei georreferenciando imagens de satélite e gerenciando a base cartográfica de **mais de 1.500 cidades brasileiras**, e hoje desenho soluções que unem **GIS, IA e dados** para resolver problemas reais de negócio.
 
 Atuo no ciclo completo: **discovery com o cliente → arquitetura → desenvolvimento → implantação**. Fui tech lead de projetos GIS corporativos para grandes empresas de energia, saneamento, telecom e celulose, e hoje lidero a **[GISLAB Tech](https://github.com/GISLABTech)** e atuo como **Especialista GIS & IA** na **[Imagem](https://www.img.com.br/pt-br/home)**, distribuidora oficial **[Esri](https://www.esri.com)** no Brasil.
