@@ -13,6 +13,8 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       # Profile summary cards (committed to the default branch)
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
