@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:151515,50:1f3b2c,100:79ff97&height=210&section=header&text=Diogo%20Rosanelli&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=GIS%20%26%20AI%20Specialist%20%E2%80%A2%20Solutions%20Architect%20%E2%80%A2%20CEO%20%40%20GISLAB%20Tech&descSize=17&descAlignY=58&animation=fadeIn" alt="Diogo Rosanelli" />
+  <img width="100%" src="./assets/header.svg" alt="Diogo Rosanelli" />
 </p>
 
 <p align="center">
   <a href="https://github.com/diogorosanelli">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=79FF97&center=true&vCenter=true&width=640&lines=25%2B+anos+resolvendo+problemas+com+o+%22onde%22;Intelig%C3%AAncia+Geogr%C3%A1fica+%2B+Intelig%C3%AAncia+Artificial;GeoAI+%E2%80%A2+Vis%C3%A3o+Computacional+%E2%80%A2+Sensoriamento+Remoto;Da+ideia+ao+deploy%3A+discovery%2C+arquitetura+e+c%C3%B3digo" alt="Typing SVG" />
+    <img src="./assets/typing.svg" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,8 +21,6 @@
 ---
 
 ## 🌎 Sobre mim
-
-<a href="https://github.com/diogorosanelli"><img align="right" width="170" src="https://avatars.githubusercontent.com/u/115076?v=4&s=360" alt="Diogo Rosanelli" /></a>
 
 Trabalho com **inteligência geográfica desde 2000** — comecei georreferenciando imagens de satélite e gerenciando a base cartográfica de **mais de 1.500 cidades brasileiras**, e hoje desenho soluções que unem **GIS, IA e dados** para resolver problemas reais de negócio.
 
@@ -172,5 +170,5 @@ class Diogo:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:79ff97,50:1f3b2c,100:151515&height=110&section=footer" alt="" />
+  <img width="100%" src="./assets/footer.svg" alt="" />
 </p>
